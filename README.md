@@ -9,11 +9,6 @@ Welcome to TailorResume.AI, your ultimate solution for creating, managing, and s
 - **Netlify Deployment:** [tailor-resume-ai.netlify.app](https://tailor-resume-ai.netlify.app)
 
 
-
-## Architecture
-
-<img src="./assets/arch-diagram.png" alt="architecture" width="600"/>
-
 ## Features
 
 1. **Create Resume:** Design and generate your professional resume using our intuitive application.
@@ -67,26 +62,7 @@ In the job application process, using the same resume for different roles may no
   <img src="./assets/resume-cards-mobile.png" >
 </p>
 
-## Development
 
-To develop locally, follow these steps:
-
-**Backend:**
-
-```bash
-npm i
-npm run dev
-```
-
-**Client:**
-
-```bash
-cd client
-npm i
-npm run start
-```
-
-Remember to create `.env` files as per the provided `.env.example` in both the client and root directories of the project.
 
 ## Deployment
 
