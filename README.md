@@ -7,11 +7,8 @@ Welcome to TailorResume.AI, your ultimate solution for creating, managing, and s
 ## Live Applications
 
 - **Netlify Deployment:** [tailor-resume-ai.netlify.app](https://tailor-resume-ai.netlify.app)
-- **Render.com Deployment:** [tailor-my-resume-express-backend.onrender.com](https://tailor-my-resume-express-backend.onrender.com)
 
-## Wireframe
 
-Figma wireframe - [Web & Mobile mockups](https://www.figma.com/file/GxuX8FxP5UWVFho9PPrcxJ/TailorMyResume-Material-3-Design?type=design&node-id=54725%3A27727&mode=design&t=g5eMDLaZ9TifUZ1i-1)
 
 ## Architecture
 
@@ -93,12 +90,5 @@ Remember to create `.env` files as per the provided `.env.example` in both the c
 
 ## Deployment
 
-The project is deployed on [Netlify](https://www.netlify.com/) and [Render.com](https://render.com/).
+The project is deployed on [Netlify](https://www.netlify.com/) 
 
-## Get Started
-
-Start building your professional resume today with TailorResume.AI!
-If you have any questions or feedback, feel free to reach out.
-Happy job hunting! 🚀
-
-_This is a hobby project created and maintained by [Ashutosh Panda](https://www.linkedin.com/in/ashutosh-panda/)._
